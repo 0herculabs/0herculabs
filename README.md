@@ -38,7 +38,7 @@ Creador de decals para **Gran Turismo 7** (Windows). Genera SVGs que cumplen las
 - 🌍 [Versión Web](https://gt7livman.com)
 
 ### 🛒 [Wallabot](https://github.com/0herculabs/wallabot)
-Bot con interfaz web moderna que **monitoriza Wallapop** y detecta anuncios nuevos.
+Bot con interfaz web moderna que **monitoriza Wallapop, Cex, CashConverters y Mil Anuncios** y detecta anuncios nuevos.
 - Búsquedas ilimitadas con rango de precio y re-escaneo periódico
 - Solo muestra artículos disponibles e ignora los que ya había encontrado
 - Multiusuario, accesible en local o a través de Tailscale
