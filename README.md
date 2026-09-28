@@ -19,7 +19,7 @@ Creador de decals para **Gran Turismo 7** (Windows). Genera SVGs que cumplen las
 - **SVG Generator:** convierte un logo o imagen (JPG, PNG o SVG) en un decal de GT7
 - Ajusta automáticamente el SVG al límite de 15 KB del juego
 - 📦 [Descargar](https://github.com/0herculabs/GT7LivMan/releases)
-- 🌍 [Versión Wen](https://gt7livman.com)
+- 🌍 [Versión Web](https://gt7livman.com)
 ### 🛒 [Wallabot](https://github.com/0herculabs/wallabot)
 Bot con interfaz web moderna que **monitoriza Wallapop** y detecta anuncios nuevos.
 - Búsquedas ilimitadas con rango de precio y re-escaneo periódico
