@@ -7,12 +7,14 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D4?logo=windows&logoColor=white)
  
 ## 🚀 Proyectos
- 
-### 🎮 [GuessTheGa.me](https://guessthega.me)
-Juego diario estilo Wordle en el que hay que adivinar **títulos de videojuegos**.
-- **Stack:** FastAPI · PostgreSQL · JavaScript vanilla
-- **Despliegue:** VPS propio con systemd + Caddy
-- 🔗 [Jugar](https://guessthega.me) · 🔒 Código privado
+
+### 🏎️ [EvoSim](https://evosim.es)
+Comunidad de **Assetto Corsa EVO** centrada en trackdays y retos semanales de hotlap.
+- Cada semana, una nueva combinación de **coche + circuito**
+- Tabla de tiempos para comparar vueltas y seguir la evolución durante el reto
+- Pensado para rodar, mejorar tiempos y compartir referencias con la comunidad
+- 🌐 [Web](https://evosim.es) · 🔒 Código privado
+
 ### 🏁 [GT7LivMan](https://github.com/0herculabs/GT7LivMan)
 Creador de decals para **Gran Turismo 7** (Windows). Genera SVGs que cumplen las reglas del Decal Uploader oficial, listos para el editor de libreas.
 - **License Plate Generator:** matrículas de España, UK, EE. UU., Japón, Francia y más países
@@ -20,6 +22,7 @@ Creador de decals para **Gran Turismo 7** (Windows). Genera SVGs que cumplen las
 - Ajusta automáticamente el SVG al límite de 15 KB del juego
 - 📦 [Descargar](https://github.com/0herculabs/GT7LivMan/releases)
 - 🌍 [Versión Web](https://gt7livman.com)
+
 ### 🛒 [Wallabot](https://github.com/0herculabs/wallabot)
 Bot con interfaz web moderna que **monitoriza Wallapop** y detecta anuncios nuevos.
 - Búsquedas ilimitadas con rango de precio y re-escaneo periódico
