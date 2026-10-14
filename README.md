@@ -1,3 +1,5 @@
+
+
 ## 🛠️ Technologies & Tools
 
 ### 💻 Backend & Data
@@ -11,34 +13,76 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![REACTJS](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
-### ☁️ DevOps & Systems
+### ⚙️ Native Development & Systems
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### ☁️ DevOps & Version Control
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-## 🚀 Proyectos
+---
+
+## 🚀 Projects
 
 ### 🏎️ [EvoSim](https://evosim.es)
-Comunidad de **Assetto Corsa EVO** centrada en trackdays y retos semanales de hotlap.
-- Cada semana, una nueva combinación de **coche + circuito**
-- Tabla de tiempos para comparar vueltas y seguir la evolución durante el reto
-- Pensado para rodar, mejorar tiempos y compartir referencias con la comunidad
-- 🌐 [Web](https://evosim.es) · 🔒 Código privado
+
+An **Assetto Corsa EVO community** focused on track days and weekly hotlap challenges.
+
+- 🏁 A new **car + track** combination every week.
+- ⏱️ Leaderboards to compare lap times and track each driver's progress.
+- 🤝 A place to improve, share tips, and compete with the community.
+
+🌐 **[Visit EvoSim](https://evosim.es)** · 🔒 Private source code
+
+### 🏆 [Forza Motorsport 2 — Native PC Port](https://github.com/0herculabs/hl360-Forza2)
+
+A **native Windows port of Forza Motorsport 2 (Xbox 360, 2007)**, built by statically recompiling the original PowerPC code into C++ and compiling it for x86-64.
+
+- 🚀 **No CPU emulation or JIT:** runs natively on Windows.
+- 🎮 **Direct3D 12 graphics**, resolution settings up to 4K, and 60/120 Hz options.
+- 🛠️ **Custom launcher** with profiles, graphics settings, controls, and game file management.
+- 💿 Original ISO import, file verification, and support for Limited Edition bonus disc content.
+- 🔧 **Project Forza Plus 2** community mod integration, including AI, career, and camera settings.
+
+**Requires an original copy of the game. No game files are distributed with the project.**
+
+📂 **[Source code](https://github.com/0herculabs/hl360-Forza2)** · 📦 **[Download for Windows](https://github.com/0herculabs/hl360-Forza2/releases/latest)**
 
 ### 🏁 [GT7LivMan](https://github.com/0herculabs/GT7LivMan)
-Creador de decals para **Gran Turismo 7** (Windows). Genera SVGs que cumplen las reglas del Decal Uploader oficial, listos para el editor de libreas.
-- **License Plate Generator:** matrículas de España, UK, EE. UU., Japón, Francia y más países
-- **SVG Generator:** convierte un logo o imagen (JPG, PNG o SVG) en un decal de GT7
-- Ajusta automáticamente el SVG al límite de 15 KB del juego
-- 📦 [Descargar](https://github.com/0herculabs/GT7LivMan/releases)
-- 🌍 [Versión Web](https://gt7livman.com)
+
+A tool for creating **Gran Turismo 7-compatible decals**, ready for the official Decal Uploader and livery editor.
+
+- 🔢 **License Plate Generator:** plates from Spain, the UK, the US, Japan, France, and more.
+- 🎨 **SVG Generator:** converts JPG, PNG, and SVG images into GT7 decals.
+- 📐 Automatically optimizes SVG files to meet the game's **15 KB limit**.
+
+📂 **[Source code](https://github.com/0herculabs/GT7LivMan)** · 📦 **[Download for Windows](https://github.com/0herculabs/GT7LivMan/releases)** · 🌐 **[Web app](https://gt7livman.com)**
 
 ### 🛒 [Wallabot](https://github.com/0herculabs/wallabot)
-Bot con interfaz web moderna que **monitoriza Wallapop, Cex, CashConverters y Mil Anuncios** y detecta anuncios nuevos.
-- Búsquedas ilimitadas con rango de precio y re-escaneo periódico
-- Solo muestra artículos disponibles e ignora los que ya había encontrado
-- Multiusuario, accesible en local o a través de Tailscale
+
+A **second-hand marketplace monitoring bot** with a modern web interface, supporting Wallapop, CeX, Cash Converters, and Milanuncios.
+
+- 🔍 Unlimited searches with price filters and scheduled rescans.
+- 🔔 Detects newly listed items while filtering out duplicates and previously found listings.
+- 👥 Multi-user support, accessible locally or remotely through **Tailscale**.
+
+📂 **[View repository](https://github.com/0herculabs/wallabot)**
+
+---
+
+<div align="center">
+
+### 🏁 From Idea to Code
+
+*Web Development · Automation · Sim Racing · Native Development*
+
+**[Explore my repositories →](https://github.com/0herculabs?tab=repositories)**
+
+</div>
