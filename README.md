@@ -53,6 +53,8 @@ A **native Windows port of Forza Motorsport 2 (Xbox 360, 2007)**, built by stati
 
 **Requires an original copy of the game. No game files are distributed with the project.**
 
+📂 **[Source code](https://github.com/0herculabs/hl360-Forza2)** · 📦 **[Download for Windows](https://github.com/0herculabs/hl360-Forza2/releases/latest)**
+
 ### 🏎️ [Forza Motorsport 3 — Native PC Recompilation](https://github.com/0herculabs/hl360-forza3)
 
 A **native Windows port of Forza Motorsport 3: Ultimate Collection (Xbox 360, 2009)**, using static PowerPC-to-C++ recompilation with the ReXGlue SDK.
@@ -67,8 +69,6 @@ A **native Windows port of Forza Motorsport 3: Ultimate Collection (Xbox 360, 20
 
 📂 **[Source code](https://github.com/0herculabs/hl360-forza3)** · 📦 **[Download for Windows](https://github.com/0herculabs/hl360-forza3/releases/latest)**
 
-
-📂 **[Source code](https://github.com/0herculabs/hl360-Forza2)** · 📦 **[Download for Windows](https://github.com/0herculabs/hl360-Forza2/releases/latest)**
 
 ### 🏁 [GT7LivMan](https://github.com/0herculabs/GT7LivMan)
 
