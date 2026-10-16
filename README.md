@@ -53,6 +53,21 @@ A **native Windows port of Forza Motorsport 2 (Xbox 360, 2007)**, built by stati
 
 **Requires an original copy of the game. No game files are distributed with the project.**
 
+### 🏎️ [Forza Motorsport 3 — Native PC Recompilation](https://github.com/0herculabs/hl360-forza3)
+
+A **native Windows port of Forza Motorsport 3: Ultimate Collection (Xbox 360, 2009)**, using static PowerPC-to-C++ recompilation with the ReXGlue SDK.
+
+- 🚀 **No CPU emulation or JIT:** the original game code runs natively on Windows.
+- 🎮 **Direct3D 12 graphics**, 60 FPS gameplay, up to 4K resolution, FXAA, AMD FSR, and CAS.
+- 🛠️ **Custom bilingual launcher** with local profiles, graphics settings, and remappable controls.
+- 💿 **Two-disc Ultimate Collection support** with ISO extraction, file verification, and additional cars and tracks.
+- 🔧 **Project Forza Plus 3** integration and shader precompilation.
+
+**Requires an original USA Ultimate Collection copy (both discs). No game files are distributed.**
+
+📂 **[Source code](https://github.com/0herculabs/hl360-forza3)** · 📦 **[Download for Windows](https://github.com/0herculabs/hl360-forza3/releases/latest)**
+
+
 📂 **[Source code](https://github.com/0herculabs/hl360-Forza2)** · 📦 **[Download for Windows](https://github.com/0herculabs/hl360-Forza2/releases/latest)**
 
 ### 🏁 [GT7LivMan](https://github.com/0herculabs/GT7LivMan)
