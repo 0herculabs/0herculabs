@@ -31,64 +31,12 @@
 
 ## 🚀 Projects
 
-### 🏎️ [EvoSim](https://evosim.es)
-
-An **Assetto Corsa EVO community** focused on track days and weekly hotlap challenges.
-
-- 🏁 A new **car + track** combination every week.
-- ⏱️ Leaderboards to compare lap times and track each driver's progress.
-- 🤝 A place to improve, share tips, and compete with the community.
-
-🌐 **[Visit EvoSim](https://evosim.es)** · 🔒 Private source code
-
-### 🏆 [Forza Motorsport 2 — Native PC Port](https://github.com/0herculabs/hl360-Forza2)
-
-A **native Windows port of Forza Motorsport 2 (Xbox 360, 2007)**, built by statically recompiling the original PowerPC code into C++ and compiling it for x86-64.
-
-- 🚀 **No CPU emulation or JIT:** runs natively on Windows.
-- 🎮 **Direct3D 12 graphics**, resolution settings up to 4K, and 60/120 Hz options.
-- 🛠️ **Custom launcher** with profiles, graphics settings, controls, and game file management.
-- 💿 Original ISO import, file verification, and support for Limited Edition bonus disc content.
-- 🔧 **Project Forza Plus 2** community mod integration, including AI, career, and camera settings.
-
-**Requires an original copy of the game. No game files are distributed with the project.**
-
-📂 **[Source code](https://github.com/0herculabs/hl360-Forza2)** · 📦 **[Download for Windows](https://github.com/0herculabs/hl360-Forza2/releases/latest)**
-
-### 🏎️ [Forza Motorsport 3 — Native PC Recompilation](https://github.com/0herculabs/hl360-forza3)
-
-A **native Windows port of Forza Motorsport 3: Ultimate Collection (Xbox 360, 2009)**, using static PowerPC-to-C++ recompilation with the ReXGlue SDK.
-
-- 🚀 **No CPU emulation or JIT:** the original game code runs natively on Windows.
-- 🎮 **Direct3D 12 graphics**, 60 FPS gameplay, up to 4K resolution, FXAA, AMD FSR, and CAS.
-- 🛠️ **Custom bilingual launcher** with local profiles, graphics settings, and remappable controls.
-- 💿 **Two-disc Ultimate Collection support** with ISO extraction, file verification, and additional cars and tracks.
-- 🔧 **Project Forza Plus 3** integration and shader precompilation.
-
-**Requires an original USA Ultimate Collection copy (both discs). No game files are distributed.**
-
-📂 **[Source code](https://github.com/0herculabs/hl360-forza3)** · 📦 **[Download for Windows](https://github.com/0herculabs/hl360-forza3/releases/latest)**
-
-
-### 🏁 [GT7LivMan](https://github.com/0herculabs/GT7LivMan)
-
-A tool for creating **Gran Turismo 7-compatible decals**, ready for the official Decal Uploader and livery editor.
-
-- 🔢 **License Plate Generator:** plates from Spain, the UK, the US, Japan, France, and more.
-- 🎨 **SVG Generator:** converts JPG, PNG, and SVG images into GT7 decals.
-- 📐 Automatically optimizes SVG files to meet the game's **15 KB limit**.
-
-📂 **[Source code](https://github.com/0herculabs/GT7LivMan)** · 📦 **[Download for Windows](https://github.com/0herculabs/GT7LivMan/releases)** · 🌐 **[Web app](https://gt7livman.com)**
-
-### 🛒 [Wallabot](https://github.com/0herculabs/wallabot)
-
-A **second-hand marketplace monitoring bot** with a modern web interface, supporting Wallapop, CeX, Cash Converters, and Milanuncios.
-
-- 🔍 Unlimited searches with price filters and scheduled rescans.
-- 🔔 Detects newly listed items while filtering out duplicates and previously found listings.
-- 👥 Multi-user support, accessible locally or remotely through **Tailscale**.
-
-📂 **[View repository](https://github.com/0herculabs/wallabot)**
+- 🏎️ **[EvoSim](https://evosim.es)** — Assetto Corsa EVO community for weekly hotlap challenges and leaderboards.
+- 🏆 **[Forza Motorsport 2](https://github.com/0herculabs/hl360-Forza2)** — Native Windows port of the Xbox 360 racing game through PowerPC-to-C++ recompilation.
+- 🏎️ **[Forza Motorsport 3](https://github.com/0herculabs/hl360-forza3)** — Native PC recompilation of Forza Motorsport 3: Ultimate Collection.
+- 🏁 **[Forza Motorsport 4](https://github.com/0herculabs/hl360-forza4)** — Native PC recompilation with a custom launcher and experimental wheel/force-feedback support.
+- 🎨 **[GT7LivMan](https://github.com/0herculabs/GT7LivMan)** — Generator and optimizer for Gran Turismo 7-compatible decals.
+- 🛒 **[Wallabot](https://github.com/0herculabs/wallabot)** — Bot for monitoring second-hand listings across multiple marketplaces.
 
 ---
 
